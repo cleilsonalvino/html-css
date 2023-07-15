@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com tabelas</title>
+    <style>
+
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        body {
+            background-color: gainsboro;
+            font-family: Arial, Helvetica, sans-serif;
+           
+            
+        }
+
+        main {
+            background-color: rgb(25, 37, 48);
+            max-width: 1200px;
+            min-width: 250px;
+            height: 100vh;
+            margin: auto;
+        }
+
+        h1 {
+            padding-top: 50px;
+            text-align: center;
+            color: white;
+        }
+
+        h2 {
+            text-align: center;
+            color: white;
+            padding-top: 20px;
+        }
+
+        table {
+            background-color: rgb(117, 115, 238);
+            width: 400px;
+            border-collapse: collapse;
+            margin: auto;
+            position: absolute;
+            top: 20%;
+            left: 50%;
+
+            transform: translate(-50%,20%);
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+            
+        }
+
+        tr {
+            color:white;
+        }
+
+        td.quantia {
+            background-color: rgb(70, 69, 179);
+            text-align: center;
+        }
+
+        td.populacao {
+            background-color: rgb(70, 69, 179);
+            text-align: center;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        div {
+            background-color: white;
+            padding: 10px;
+        }
+
+        div.imagem {
+            position: absolute;
+            top: 20%;
+            left: 50%;
+            transform: translate(100%,20%);
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Minha primeira tabela</h1>
+        <h2>População de Sergipe</h2>
+        <table>
+            <tr>
+                <td class="quantia">1</td>	 <td><img src="aracaju.png" alt=""> <a href="https://pt.wikipedia.org/wiki/Aracaju">Aracaju</a></td>	<td class="populacao">602 757</td>
+            </tr>
+            <tr>
+                <td class="quantia">2</td>	 <td><img src="nossa senhora.JPG" alt=""> <a href="https://pt.wikipedia.org/wiki/Nossa_Senhora_do_Socorro">Nossa Senhora do Socorro</a></td>	<td class="populacao">192 330</td>
+            </tr>
+            <tr>
+                <td class="quantia">3</td>	 <td><img src="Bandeira-itabaiana-se.png" alt=""> <a href="https://pt.wikipedia.org/wiki/Itabaiana_(Sergipe)">Itabaiana</a></td>	<td class="populacao">103 439</td>
+            </tr>
+            <tr>
+                <td class="quantia">4</td>	 <td><img src="20px-Bandeira-de-lagarto-se.jpg" alt=""> <a href="https://pt.wikipedia.org/wiki/Lagarto_(Sergipe)">Lagarto</a></td>	<td class="populacao">101 579</td>
+            </tr>
+            <tr>
+                <td class="quantia">5</td>	 <td><img src="20px-Bandeira_scristovao.svg.png" alt=""> <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Crist%C3%B3v%C3%A3o_(Sergipe)">São Cristóvão</a></td>	<td class="populacao">95 612</td>
+            </tr>
+            <tr>
+                <td class="quantia">6</td>	 <td><img src="20px-Bandeira-estanciase.jpg" alt=""> <a href="https://pt.wikipedia.org/wiki/Est%C3%A2ncia_(Sergipe)">Estância</a></td>	<td class="populacao">65 078</td>
+            </tr>
+            <tr>
+                <td class="quantia">7</td>	 <td><img src="Bandeira_de_Tobias_Barreto.png" alt="https://pt.wikipedia.org/wiki/Tobias_Barreto_(Sergipe)"> <a href="">Tobias Barreto</a></td>	<td class="populacao">50 905</td>
+            </tr>
+            <tr>
+                <td class="quantia">8</td>	 <td><img src="Bandeira_de_Simão_Dias.png" alt=""> <a href="https://pt.wikipedia.org/wiki/Sim%C3%A3o_Dias">Simão Dias</a></td>	<td class="populacao">42 578</td>
+            </tr>
+            <tr>
+                <td class="quantia">9</td>	 <td><img src="Bandeira_de_Barra_dos_Coqueiros.png" alt=""> <a href="https://pt.wikipedia.org/wiki/Barra_dos_Coqueiros">Barra dos Coqueiros</a></td>	<td class="populacao">41 511</td>
+            </tr>
+            <tr>
+                <td class="quantia">10</td>	 <td><img src="20px-Bandeira_gloria.png" alt=""> <a href="https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Gl%C3%B3ria">Nossa Senhora da Glória</a></td>	<td class="populacao">41 202</td>
+            </tr>
+        
+        </table>
+        <div class="imagem">
+            <img src="Brazil_Sergipe_location_map.svg.png" alt="">
+            <p>Sergipe é dividido em 75 municípios.</p>
+        </div>
+    </main>
+</body>
+</html>

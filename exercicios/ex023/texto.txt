@@ -1,0 +1,75 @@
+1	 Aracaju	602 757
+2	 Nossa Senhora do Socorro	192 330
+3	 Itabaiana	103 439
+4	 Lagarto	101 579
+5	 São Cristóvão	95 612
+6	 Estância	65 078
+7	 Tobias Barreto	50 905
+8	 Simão Dias	42 578
+9	 Barra dos Coqueiros	41 511
+10	 Nossa Senhora da Glória	41 202
+11	 Itabaianinha	40 678
+12	 Itaporanga d'Ajuda	34 411
+13	 Poço Redondo	33 439
+14	 Capela	31 645
+15	 Canindé de São Francisco	26 834
+16	 Propriá	26 618
+17	 Porto da Folha	26 576
+18	 Nossa Senhora das Dores	24 996
+19	 Boquim	24 638
+20	 Laranjeiras	23 975
+21	 Umbaúba	23 917
+22	 Poço Verde	21 794
+23	 Salgado	20 279
+24	 Aquidabã	20 131
+25	 Carira	19 939
+26	 Riachão do Dantas	18 313
+27	 Campo do Brito	18 149
+28	Flag of None.svg Areia Branca	18 081
+29	 Cristinápolis	17 100
+30	 Ribeirópolis	17 033
+31	Flag of None.svg Indiaroba	16 549
+32	 Neópolis	16 426
+33	 Japaratuba	16 209
+34	 Maruim	15 719
+35	 Frei Paulo	14 530
+36	 Monte Alegre de Sergipe	14 336
+37	 Carmópolis	13 853
+38	 Santa Luzia do Itanhy	13 616
+39	 Japoatã	13 407
+40	 Pacatuba	12 502
+41	 Tomar do Geru	12 012
+42	 Malhador	11 533
+43	 Gararu	11 096
+44	 Santo Amaro das Brotas	11 092
+45	Flag of None.svg Moita Bonita	11 050
+46	 São Domingos	10 327
+47	 Arauá	10 318
+48	 Rosário do Catete	9 295
+49	Flag of None.svg Nossa Senhora Aparecida	9 232
+50	 Ilha das Flores	8 321
+51	 Riachuelo	8 311
+52	 Pirambu	7 913
+53	 Brejo Grande	7 841
+54	 Siriri	7 834
+55	 Muribeca	7 822
+56	 Pedrinhas	7 396
+57	 Santana do São Francisco	7 346
+58	 Macambira	6 838
+59	Flag of None.svg Nossa Senhora de Lourdes	6 268
+60	Flag of None.svg Feira Nova	5 975
+61	Flag of None.svg Graccho Cardoso	5 834
+62	Flag of None.svg Pinhão	5 677
+63	 Cedro de São João	5 391
+64	 Itabi	4 745
+65	 Divina Pastora	4 340
+66	 Santa Rosa de Lima	3 937
+67	 Cumbe	3 824
+68	 Canhoba	3 791
+69	 Malhada dos Bois	3 579
+70	 São Miguel do Aleixo	3 434
+71	 Telha	3 274
+72	 São Francisco	3 243
+73	Flag of None.svg General Maynard	3 037
+74	 Pedra Mole	2 778
+75	Flag of None.svg Amparo de São Francisco	2 170
