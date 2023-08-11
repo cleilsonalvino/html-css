@@ -12,13 +12,13 @@
 
         table{
             border-collapse: collapse;
-            width: 400px;
         }
 
-        td {
-            border: 1px solid black;
+        td, th {
+            border: 1px solid rgb(0, 0, 0);
             padding: 10px;
             text-align: center;
+
         }
         
 
@@ -27,14 +27,50 @@
 <body>
     <h1>Exercício de Tableas</h1>
     <table>
-        <h2>Filmes favoritos</h2>
+        <caption>Filmes Favoritos</caption>
         <tr>
             <th>Grupos</th>
             <th>Nomes</th>
-            <th>Filmes</th>
+            <th colspan="3">Filmes</th>
         </tr>
         <tr>
-            <th>Mulheres</th>
+            <th rowspan="3">Mulheres</th>
+            <td>Ana Beatriz</td>
+            <td>Joana</td>
+            <td>Clara</td>
+            <td>Julia</td>
+        </tr>
+        <tr>
+            <td>James</td>
+            <td>Karmen</td>
+            <td>Lucia</td>
+            <td>Joseane</td>
+        </tr>
+        <tr>
+            
+            <td>Jessica</td>
+            <td>Vanessa</td>
+            <td>Fernanda</td>
+            <td>Celma</td>
+        </tr>
+        <tr>
+            <th rowspan="3">Homens</th>
+            <td>Carlos</td>
+            <td>Joao</td>
+            <td>Manuel</td>
+            <td>Douglas</td>
+        </tr>
+        <tr>
+            <td>Jonas</td>
+            <td>Junior</td>
+            <td>Vagner</td>
+            <td>Kaue</td>
+        </tr>
+        <tr>
+            <td>Thiago</td>
+            <td>Cesar</td>
+            <td>Romero</td>
+            <td>Matheus</td>
         </tr>
     </table>
 </body>
