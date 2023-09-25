@@ -27,6 +27,11 @@ header > h1 {
     text-align: center;
     padding: 10px;
     cursor: pointer;
+    animation: move linear 3s;
+}
+
+@keyframes move {
+
 }
 
 #burguer:hover {
@@ -36,6 +41,8 @@ header > h1 {
 
 menu {
     display: none;
+    transition: linear 2s;
+    
 }
 
 menu > ul {
@@ -50,6 +57,7 @@ menu > ul > li > a {
     background-color: rgb(82, 82, 82);
     color: white;
     border-top: 2px solid rgb(139, 139, 139);
+    
 }
 
 menu > ul > li > a:hover {
